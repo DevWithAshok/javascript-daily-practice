@@ -19,3 +19,4 @@ function checkGuess() {
         gameResult.style.backgroundColor = "red";
     }
 }
+ 
