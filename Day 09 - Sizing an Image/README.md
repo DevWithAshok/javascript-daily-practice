@@ -31,3 +31,8 @@ This project is an Image Resizer application built using HTML, CSS, Bootstrap, a
 ## Learning Outcome
 
 Learned how to manipulate element dimensions using JavaScript, respond to user interactions, update content dynamically, and build an interactive image resizing application.
+
+
+
+
+
