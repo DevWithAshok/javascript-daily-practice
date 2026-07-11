@@ -24,7 +24,7 @@ function decrement() {
         imageElement.style.width = updatedValue;
     }
 
-}
+};
 
 function increment() {
     if (defaultImageWidth >= maxWidth) {
@@ -37,4 +37,9 @@ function increment() {
         warningMessageElement.textContent = "";
     }
 
-}
+};
+
+
+
+
+
