@@ -3,4 +3,4 @@ function getNationalBird(){
 }
 
 let nationalBird = getNationalBird();
-console.log(nationalBird);
+console.log(nationalBird); 
