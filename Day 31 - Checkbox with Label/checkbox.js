@@ -1,0 +1,11 @@
+let containerElement = document.getElementById("checkboxWithLabelContainer");
+let checkboxElement = document.createElement("input");
+checkboxElement.id = "checkbox";
+checkboxElement.type = "checkbox";
+let labelElement = document.createElement("label");
+labelElement.textContent = "Click Me!";
+labelElement.id = "checkboxLabel";
+labelElement.setAttribute("for", "checkbox");
+containerElement.classList.add("text-center");
+containerElement.appendChild(checkboxElement);
+containerElement.appendChild(labelElement);
