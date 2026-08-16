@@ -10,7 +10,7 @@ let skillList = [{
         uniqueNo: 1,
     },
     {
-        skillName: "CSS",
+        skillName: "CSS", 
         uniqueNo: 2,
     },
     {
