@@ -9,7 +9,7 @@ let itemList = [{
     {
         itemName: "Paratha",
         uniqueNo: 3,
-    }
+    } 
 ];
 
 let itemListCount = itemList.length;
