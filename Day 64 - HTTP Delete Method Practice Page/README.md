@@ -1,4 +1,4 @@
-# Day 61 - HTTP DELETE Method Practice Page
+# Day 64 - HTTP DELETE Method Practice Page
 
 ## Overview
 
