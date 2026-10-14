@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates how to use conditional statements to determine voting eligibility and how to work with arrays by storing and displaying car brand names. It combines decision-making with array operations to strengthen JavaScript fundamentals.
+This project demonstrates how to use conditional statements to determine voting eligibility and how to work with arrays by storing and displaying car brand names. It combines decision-making with array operations to strengthen JavaScript fundamentals. 
 
 ## Features
 
